@@ -1,0 +1,74 @@
+[
+  {
+    "lastName": "PETRUCCI",
+    "firstName": "WALTER",
+    "manager": {
+      "lastName": "WELLE",
+      "firstName": "KLAUS",
+      "login": "kwelle",
+      "codictID": 19537
+    },
+    "phone": "xxxxxxxxxxxxxxxx",
+    "service": "10",
+    "function": "Director-General",
+    "office": "04Q010",
+    "login": "wpetrucci",
+    "department": "ITEC",
+    "codictID": 20594,
+    "email": "xxxxxxxxxxx@xxxxxxxxxxxxx"
+  },
+  {
+    "lastName": "KOYKKA",
+    "firstName": "VIRPI",
+    "manager": {
+      "lastName": "PETRUCCI",
+      "firstName": "WALTER",
+      "login": "wpetrucci",
+      "codictID": 20594
+    },
+    "phone": "xxxxxxxxxxxxxx",
+    "service": "10B",
+    "function": "Director",
+    "office": "07J008",
+    "login": "vkoykka",
+    "department": "ITEC - DIR PUBLISHING",
+    "codictID": 18462,
+    "email": "xxxxxxxxxxx@xxxxxxxxxxxx"
+  },
+  {
+    "lastName": "AOUADI",
+    "firstName": "FAKHREDDINE",
+    "manager": {
+      "lastName": "KOYKKA",
+      "firstName": "VIRPI",
+      "login": "vkoykka",
+      "codictID": 18462
+    },
+    "phone": "xxxxxxxxxxxxxx",
+    "service": "10B10",
+    "function": "Head of Unit",
+    "office": "06J046",
+    "login": "faouadi",
+    "department": "ITEC - INNOVIT",
+    "codictID": 28981,
+    "email": "xxxxxxxxxxx@xxxxxxxxxxxxxx"
+  },
+  {
+    "lastName": "CIMENCI",
+    "firstName": "Gülden",
+    "manager": {
+      "lastName": "AOUADI",
+      "firstName": "FAKHREDDINE",
+      "login": "faouadi",
+      "codictID": 28981
+    },
+    "phone": "xxxxxxxxxxxx",
+    "service": "10B10",
+    "function": "Secretary",
+    "office": "06J048",
+    "login": "gcimenci",
+    "department": "ITEC - INNOVIT",
+    "codictID": 189178,
+    "email": "xxxxxxxxxxx@xxxxxxxxxxx"
+  }
+]
